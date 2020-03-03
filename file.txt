@@ -1,2 +1,7 @@
 this is file1
 https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Python-client-setup-(Mult-language)
+jp5-hbggi91d.cyber-node.xyz
+55589
+ymERwNN1
+rc4-md5
+auth_chain_a
