@@ -6,3 +6,4 @@ ymERwNN1
 rc4-md5
 auth_chain_a
 https://panel.libcyber.xyz/clients/electron-ssr-0.2.6.deb
+ssr://anA1LWhiZ2dpOTFkLmN5YmVyLW5vZGUueHl6OjU1NTg5OmF1dGhfY2hhaW5fYTpyYzQtbWQ1OnBsYWluOmVXMUZVbmRPVGpFLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TVRVMk1EZzZaSGc0Y210dyZyZW1hcmtzPTZhdVk2WUNmTGVhWHBlYWNyRFUmZ3JvdXA9VEdsaVEzbGlaWEk
