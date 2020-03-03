@@ -1,1 +1,2 @@
 this is file1
+https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Python-client-setup-(Mult-language)
