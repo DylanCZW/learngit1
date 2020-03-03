@@ -5,3 +5,4 @@ jp5-hbggi91d.cyber-node.xyz
 ymERwNN1
 rc4-md5
 auth_chain_a
+https://panel.libcyber.xyz/clients/electron-ssr-0.2.6.deb
